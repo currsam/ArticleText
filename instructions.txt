@@ -9,3 +9,4 @@ Date | Headline | Link , Date | Headline | Link
 All of the spaces that I put are IMPORTANT put a space before and after every vertical bar and comma.
 Make sure the links include https://
 Also you can put as many different articles as you want just make sure they are seperated by a comma.
+When you are done click commit changes and then wait for the website to update (this may take 5 minutes)
